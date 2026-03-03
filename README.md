@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src='bio.png' alt='bio image' />
+</p>
+
 # HOTDEV 🍀
 
 > I build AI-powered systems that think, speak, see, stream, and scale.
